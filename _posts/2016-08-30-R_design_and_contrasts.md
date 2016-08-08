@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "SQL queries in R using sqldf"
+title:  "R Design matrix and contrasts"
 categories: coding
 tags: R
 description: "Quick intro on how to use the sqldf R package"
