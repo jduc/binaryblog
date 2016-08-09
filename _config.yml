@@ -2,6 +2,7 @@
 title: BinaryBlog
 description: > # this means to ignore newlines until "baseurl:"
     A blog to log and remember programming things.  
+baseurl: /binaryblog
 github_username: jduc
 timezone: "Europe/Zurich"
 
