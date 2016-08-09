@@ -45,7 +45,7 @@ $$
 
 Which can be represented like this: 
 
-![Modeling]({{ site.url}}/images/2016-08-09-design.svg)
+![Modeling]({{ site.baseurl }}/images/2016-08-09-design.svg)
 
 
 The 3 first betas are the average of the J D and T groups, the $$\beta_4$$ is the effect of KAP1 on
