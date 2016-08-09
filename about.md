@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This blog will gather snipset of codes that I found useful throughout my day to day work. It will
-serve as a database of small tips and tutorial for future work. The topics go from simple python/R
-idioms to more complicated server and bash configurations. 
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
