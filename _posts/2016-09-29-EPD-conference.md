@@ -1,12 +1,11 @@
 ---
-layout: post
-title:  "R Design matrix and contrasts"
-categories: R
-description: "Quick intro on how to use the sqldf R package"
+layout: default
+title:  "EPD conf"
+categories: notes
+description: "Some notes about the conf"
 ---
 
 # EPD conference
-Here, I will try to explain by example how the design and matrix work in R
 
 ## First day
 ### Artemis Harzigeorgiou - Promoter prediction evolution thorugh the decades

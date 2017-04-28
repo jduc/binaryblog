@@ -23,5 +23,3 @@ whitelist:
   - jekyll-mentions
   - jekyll-paginate
   - jekyll-redirect-from
-
-theme: jekyll-theme-slate

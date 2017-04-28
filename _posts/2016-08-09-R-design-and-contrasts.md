@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "R Design matrix and contrasts"
 categories: R
 description: "Quick intro on how to use the sqldf R package"
@@ -45,7 +45,7 @@ $$
 
 Which can be represented like this: 
 
-![Modeling]({{ site.baseurl }}/images/2016-08-09-design.svg)
+![Modeling]({{ site.baseurl }}/assets/2016-08-09-design.svg)
 
 
 The 3 first betas are the average of the J D and T groups, the $$\beta_4$$ is the effect of KAP1 on
